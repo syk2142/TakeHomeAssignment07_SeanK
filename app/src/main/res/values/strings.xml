@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TakeHomeAssignment07_SeanK</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="cheat_button">CHEAT</string>
+    <string name="next_button">NEXT</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+
+<string name="question_georgev">George V was the first Windsor monarch of the UK.</string>
+<string name="question_papajohns">Nickname of President Duvalier of Haiti, who died in 1971 is Papa Johns.</string>
+<string name="question_lepanto"> The Battle of Lepanto of 1571 marked the end of the Ottoman naval supremacy in the Mediterranean</string>
+<string name="question_drake"> Nearly 30 years did it take Sir Francis Drake to complete the first circumnavigation of the globe in 1580</string>
+<string name="question_mississippi">In 1816 Mississippi state was admitted to the Union as the 20th state.</string>
+
+<string name="warning_text">Are you sure you want to do this?</string>
+<string name="show_answer_button">SHOW ANSWER</string>
+<string name="judgement_toast">Cheating is wrong!</string>
+</resources>
